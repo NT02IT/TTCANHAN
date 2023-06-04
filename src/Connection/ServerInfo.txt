@@ -1,0 +1,5 @@
+server=localhost
+database=TTCANHAN
+username=sa
+password=123456
+port=1433
